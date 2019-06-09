@@ -8,7 +8,7 @@ pip install opencv-python
 import cv2
 import numpy as np
 # Path of working folder on Disk
-src_path = "images/"
+src_path = "images/recognize_shape"
 
 
 def recognize_shape(img_path):

@@ -1,0 +1,11 @@
+version: "2.4"
+services:
+  mongo:
+    container_name: mongo_test
+    image: mongo
+    command: mongod --smallfiles --auth --bind_ip 0.0.0.0
+    restart: always
+    volumes:
+    - /data/mongodb:/data/db
+    ports:
+    - "27017:27017"

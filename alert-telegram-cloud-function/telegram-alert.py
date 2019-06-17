@@ -18,8 +18,8 @@ def __send_message(msg):
     :return:
     '''
 
-    TELEGRAM_TOKEN = '602428736:AAHn3412AGyQO1d3vPxxRlkj_pltpQ133XY'
-    TELEGRAM_CHAT_ID = '-1001382230184'
+    TELEGRAM_TOKEN = 'TELEGRAM_TOKEN_ID'
+    TELEGRAM_CHAT_ID = 'TELEGRAM_CHANNEL_ID'
 
     # For payload params refer: https://core.telegram.org/bots/api#sendmessage
     payload = {

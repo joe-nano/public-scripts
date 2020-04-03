@@ -7,6 +7,6 @@ Using Python + OpenCV + ML(Google Vision)
 - pip install google-cloud-vision
 - client_key.json with role "AutoML Service Agent"
 
-# Demo: https://youtu.be/ITvA3KPnCx4
+## Demo: https://youtu.be/ITvA3KPnCx4
 
-# By me a coffee https://www.paypal.me/tramvm/10
+## By me a coffee https://www.paypal.me/tramvm/10
